@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.AbhinavRaj826.AndroidExample"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Fruit Ninja 2.0</name>
+
+  <description>
+      Updated Fruit Ninja my version
+  </description>
+
+  <author href="https://build.phonegap.com" email="123puzleme@gmail.com">
+      Abhinav Raj
+  </author>
+  
+  <icon src="icon1.png"/>
+  
+</widget>
